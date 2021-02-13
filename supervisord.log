@@ -1,0 +1,318 @@
+2021-02-11 21:13:45,764 INFO Set uid to user 0 succeeded
+2021-02-11 21:13:45,772 INFO supervisord started with pid 17
+2021-02-11 21:13:46,776 INFO spawned: 'php' with pid 19
+2021-02-11 21:13:48,405 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:48,406 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:13:49,414 INFO spawned: 'php' with pid 26
+2021-02-11 21:13:50,790 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:50,791 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:13:51,795 INFO spawned: 'php' with pid 33
+2021-02-11 21:13:53,061 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:53,063 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:13:54,066 INFO spawned: 'php' with pid 40
+2021-02-11 21:13:55,337 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:55,339 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:13:56,343 INFO spawned: 'php' with pid 47
+2021-02-11 21:13:57,577 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:57,578 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:13:58,581 INFO spawned: 'php' with pid 54
+2021-02-11 21:13:59,813 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:13:59,814 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:00,818 INFO spawned: 'php' with pid 61
+2021-02-11 21:14:02,072 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:02,074 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:03,078 INFO spawned: 'php' with pid 68
+2021-02-11 21:14:04,289 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:04,291 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:05,296 INFO spawned: 'php' with pid 75
+2021-02-11 21:14:06,529 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:06,530 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:07,534 INFO spawned: 'php' with pid 82
+2021-02-11 21:14:08,793 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:08,795 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:09,799 INFO spawned: 'php' with pid 89
+2021-02-11 21:14:11,075 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:11,077 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:12,081 INFO spawned: 'php' with pid 96
+2021-02-11 21:14:13,339 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:13,341 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:14,345 INFO spawned: 'php' with pid 103
+2021-02-11 21:14:15,577 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:15,578 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:16,586 INFO spawned: 'php' with pid 110
+2021-02-11 21:14:17,824 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:17,826 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:18,831 INFO spawned: 'php' with pid 117
+2021-02-11 21:14:19,056 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:20,060 INFO spawned: 'php' with pid 124
+2021-02-11 21:14:21,368 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:21,369 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:22,373 INFO spawned: 'php' with pid 131
+2021-02-11 21:14:23,601 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:23,602 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:24,605 INFO spawned: 'php' with pid 138
+2021-02-11 21:14:25,827 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:25,829 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:26,835 INFO spawned: 'php' with pid 145
+2021-02-11 21:14:28,051 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:28,052 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:29,056 INFO spawned: 'php' with pid 152
+2021-02-11 21:14:30,289 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:30,291 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:31,294 INFO spawned: 'php' with pid 159
+2021-02-11 21:14:32,549 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:32,550 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:33,555 INFO spawned: 'php' with pid 166
+2021-02-11 21:14:34,849 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:34,850 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:35,854 INFO spawned: 'php' with pid 173
+2021-02-11 21:14:37,101 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:37,102 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:38,106 INFO spawned: 'php' with pid 180
+2021-02-11 21:14:39,360 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:39,362 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:40,366 INFO spawned: 'php' with pid 187
+2021-02-11 21:14:41,581 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:41,583 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:42,586 INFO spawned: 'php' with pid 194
+2021-02-11 21:14:43,791 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:43,792 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:44,797 INFO spawned: 'php' with pid 201
+2021-02-11 21:14:46,000 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:46,001 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:47,005 INFO spawned: 'php' with pid 208
+2021-02-11 21:14:48,226 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:48,227 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:49,230 INFO spawned: 'php' with pid 215
+2021-02-11 21:14:50,460 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:50,462 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:51,470 INFO spawned: 'php' with pid 222
+2021-02-11 21:14:52,693 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:52,695 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:53,699 INFO spawned: 'php' with pid 229
+2021-02-11 21:14:54,927 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:54,928 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:55,932 INFO spawned: 'php' with pid 236
+2021-02-11 21:14:57,199 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:57,200 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:14:58,205 INFO spawned: 'php' with pid 243
+2021-02-11 21:14:59,431 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:14:59,433 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:00,436 INFO spawned: 'php' with pid 250
+2021-02-11 21:15:01,758 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:01,760 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:02,764 INFO spawned: 'php' with pid 257
+2021-02-11 21:15:03,986 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:03,987 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:04,991 INFO spawned: 'php' with pid 264
+2021-02-11 21:15:06,213 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:06,215 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:07,219 INFO spawned: 'php' with pid 271
+2021-02-11 21:15:08,449 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:08,450 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:09,455 INFO spawned: 'php' with pid 278
+2021-02-11 21:15:10,694 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:10,695 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:11,699 INFO spawned: 'php' with pid 285
+2021-02-11 21:15:12,915 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:12,916 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:13,923 INFO spawned: 'php' with pid 292
+2021-02-11 21:15:15,212 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:15,214 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:16,220 INFO spawned: 'php' with pid 299
+2021-02-11 21:15:17,487 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:17,488 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:18,494 INFO spawned: 'php' with pid 306
+2021-02-11 21:15:19,730 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:19,731 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:20,735 INFO spawned: 'php' with pid 313
+2021-02-11 21:15:22,004 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:22,006 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:23,010 INFO spawned: 'php' with pid 320
+2021-02-11 21:15:24,228 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:24,229 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:25,233 INFO spawned: 'php' with pid 327
+2021-02-11 21:15:26,469 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:26,471 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:27,477 INFO spawned: 'php' with pid 334
+2021-02-11 21:15:28,817 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:28,818 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:29,824 INFO spawned: 'php' with pid 341
+2021-02-11 21:15:31,057 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:31,059 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:32,063 INFO spawned: 'php' with pid 348
+2021-02-11 21:15:33,295 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:33,296 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:34,301 INFO spawned: 'php' with pid 355
+2021-02-11 21:15:35,522 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:35,523 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:36,527 INFO spawned: 'php' with pid 362
+2021-02-11 21:15:37,751 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:37,753 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:38,757 INFO spawned: 'php' with pid 369
+2021-02-11 21:15:39,979 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:39,980 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:40,983 INFO spawned: 'php' with pid 376
+2021-02-11 21:15:42,260 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:42,262 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:43,266 INFO spawned: 'php' with pid 383
+2021-02-11 21:15:44,485 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:44,486 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:45,454 INFO spawned: 'php' with pid 390
+2021-02-11 21:15:46,734 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:46,736 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:47,740 INFO spawned: 'php' with pid 403
+2021-02-11 21:15:48,961 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:48,962 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:49,966 INFO spawned: 'php' with pid 410
+2021-02-11 21:15:51,181 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:51,183 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:52,187 INFO spawned: 'php' with pid 420
+2021-02-11 21:15:53,494 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:53,496 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:54,500 INFO spawned: 'php' with pid 437
+2021-02-11 21:15:55,718 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:55,720 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:56,724 INFO spawned: 'php' with pid 444
+2021-02-11 21:15:57,951 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:15:57,952 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:15:58,956 INFO spawned: 'php' with pid 477
+2021-02-11 21:16:00,222 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:00,223 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:01,228 INFO spawned: 'php' with pid 484
+2021-02-11 21:16:02,528 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:02,529 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:03,534 INFO spawned: 'php' with pid 491
+2021-02-11 21:16:04,831 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:04,832 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:05,836 INFO spawned: 'php' with pid 499
+2021-02-11 21:16:07,079 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:07,080 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:08,085 INFO spawned: 'php' with pid 506
+2021-02-11 21:16:09,363 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:09,365 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:10,368 INFO spawned: 'php' with pid 513
+2021-02-11 21:16:11,742 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:11,744 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:12,747 INFO spawned: 'php' with pid 536
+2021-02-11 21:16:14,032 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:14,034 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:15,002 INFO spawned: 'php' with pid 543
+2021-02-11 21:16:16,256 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:16,257 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:17,261 INFO spawned: 'php' with pid 584
+2021-02-11 21:16:18,380 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:18,381 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:19,384 INFO spawned: 'php' with pid 599
+2021-02-11 21:16:20,471 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:20,472 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:21,476 INFO spawned: 'php' with pid 602
+2021-02-11 21:16:22,553 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:22,554 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:23,558 INFO spawned: 'php' with pid 603
+2021-02-11 21:16:24,630 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:24,631 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:25,634 INFO spawned: 'php' with pid 630
+2021-02-11 21:16:26,689 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:26,691 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:27,697 INFO spawned: 'php' with pid 701
+2021-02-11 21:16:28,803 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:28,806 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:29,811 INFO spawned: 'php' with pid 730
+2021-02-11 21:16:30,933 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:30,936 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:31,941 INFO spawned: 'php' with pid 773
+2021-02-11 21:16:33,055 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:33,057 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:34,061 INFO spawned: 'php' with pid 818
+2021-02-11 21:16:35,159 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:35,160 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:36,165 INFO spawned: 'php' with pid 869
+2021-02-11 21:16:37,271 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:37,273 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:38,277 INFO spawned: 'php' with pid 908
+2021-02-11 21:16:39,404 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:39,405 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:40,410 INFO spawned: 'php' with pid 917
+2021-02-11 21:16:41,505 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:41,507 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:42,512 INFO spawned: 'php' with pid 918
+2021-02-11 21:16:43,609 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:43,611 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:44,617 INFO spawned: 'php' with pid 919
+2021-02-11 21:16:45,674 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:45,677 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:46,682 INFO spawned: 'php' with pid 928
+2021-02-11 21:16:47,890 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:47,896 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:48,900 INFO spawned: 'php' with pid 933
+2021-02-11 21:16:50,039 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:50,040 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:51,045 INFO spawned: 'php' with pid 934
+2021-02-11 21:16:52,156 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:52,157 INFO exited: php (exit status 255; not expected)
+2021-02-11 21:16:53,162 INFO spawned: 'php' with pid 939
+2021-02-11 21:16:54,587 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:54,588 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:55,593 INFO spawned: 'php' with pid 946
+2021-02-11 21:16:56,992 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:56,994 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:16:57,999 INFO spawned: 'php' with pid 953
+2021-02-11 21:16:59,375 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:16:59,376 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:00,379 INFO spawned: 'php' with pid 960
+2021-02-11 21:17:01,765 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:01,767 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:02,771 INFO spawned: 'php' with pid 967
+2021-02-11 21:17:04,180 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:04,181 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:05,186 INFO spawned: 'php' with pid 974
+2021-02-11 21:17:06,511 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:06,512 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:07,517 INFO spawned: 'php' with pid 981
+2021-02-11 21:17:08,837 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:08,838 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:09,841 INFO spawned: 'php' with pid 988
+2021-02-11 21:17:11,155 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:11,156 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:12,160 INFO spawned: 'php' with pid 995
+2021-02-11 21:17:13,476 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:13,477 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:14,483 INFO spawned: 'php' with pid 1002
+2021-02-11 21:17:15,888 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:15,889 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:16,895 INFO spawned: 'php' with pid 1009
+2021-02-11 21:17:18,285 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:18,286 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:19,291 INFO spawned: 'php' with pid 1016
+2021-02-11 21:17:20,658 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:20,659 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:21,663 INFO spawned: 'php' with pid 1023
+2021-02-11 21:17:23,048 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:23,049 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:24,053 INFO spawned: 'php' with pid 1030
+2021-02-11 21:17:25,383 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:25,384 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:26,389 INFO spawned: 'php' with pid 1037
+2021-02-11 21:17:27,698 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:27,699 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:28,703 INFO spawned: 'php' with pid 1044
+2021-02-11 21:17:30,080 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:30,081 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:31,086 INFO spawned: 'php' with pid 1051
+2021-02-11 21:17:32,465 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:32,466 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:33,470 INFO spawned: 'php' with pid 1058
+2021-02-11 21:17:34,855 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:34,856 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:35,861 INFO spawned: 'php' with pid 1065
+2021-02-11 21:17:37,214 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:37,215 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:38,220 INFO spawned: 'php' with pid 1072
+2021-02-11 21:17:39,516 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:39,517 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:40,520 INFO spawned: 'php' with pid 1084
+2021-02-11 21:17:41,773 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2021-02-11 21:17:41,775 INFO exited: php (exit status 1; not expected)
+2021-02-11 21:17:42,779 INFO spawned: 'php' with pid 1091
+2021-02-11 21:17:43,781 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
